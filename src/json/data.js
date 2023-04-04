@@ -2,7 +2,7 @@ export default [
   {
     id: 1,
     name: "b0yblackstar",
-    fecha: "8 de Enero",
+    fecha: "08 de Enero",
     image:
       "https://cdn.discordapp.com/avatars/982737063260598382/d680c8368b7ee7b669f03b4e3a2df335.webp?size=128",
   },
@@ -44,7 +44,7 @@ export default [
   {
     id: 7,
     name: "Buchi",
-    fecha: "6 de Junio",
+    fecha: "06 de Junio",
     image:
       "https://cdn.discordapp.com/avatars/313174459794063371/9528e359dbcd962b2c5fb9707322faf4.webp?size=128",
   },
@@ -65,14 +65,14 @@ export default [
   {
     id: 10,
     name: "Moya",
-    fecha: "7 de Marzo",
+    fecha: "07 de Marzo",
     image:
       "https://cdn.discordapp.com/avatars/118819875752771586/dd0789aee9571c845d7b1bf3ac05a1b4.webp?size=128",
   },
   {
     id: 11,
     name: "ShyonE",
-    fecha: "",
+    fecha: "04 de Abril",
     image:
       "https://cdn.discordapp.com/avatars/315344667250130955/b607c90c4d7d05784260ee069c4a77c1.webp?size=128",
   },
