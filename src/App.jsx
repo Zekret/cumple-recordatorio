@@ -11,7 +11,7 @@ function App() {
       <section className='container'>
         <h3>{people.length} Cumpleaños hoy</h3>
         <List people={people} />
-        <button onClick={() => setPeople([])}>Limpiar todo</button>
+        <button>Enviar al bot</button>
       </section>
     </main>
   )
